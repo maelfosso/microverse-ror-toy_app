@@ -1,0 +1,2 @@
+class Micropopst < ApplicationRecord
+end
