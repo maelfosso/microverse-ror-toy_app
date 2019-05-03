@@ -1,24 +1,13 @@
-# README
+# Project: Getting Your Feet Wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the project realised through the **Chapter 2 of ruby on rails tutorials** books. Here is the link https://www.railstutorial.org/book/toy_app
 
-Things you may want to cover:
+The Hello app web app (That is the chapter 1) is available at this link https://github.com/maelfosso/microverse_ror_hello_app/tree/dev  
 
-* Ruby version
+## Link of the live version 
 
-* System dependencies
+The live version is available here https://floating-refuge-99934.herokuapp.com/
 
-* Configuration
+## Developper
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project done by https://github.com/maelfosso
